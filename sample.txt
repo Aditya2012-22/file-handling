@@ -1,0 +1,5 @@
+Software Engineering is the systematic process of designing, developing, testing, and maintaining software using techniques like requirements analysis, design, testing, and maintenance.
+It ensures software is high-quality, reliable, and maintainable, especially for large software systems.
+Software Engineering improves efficiency, quality, and budget management, helping deliver software on time, within budget, and meeting all requirements
+It continuously adopting new tools and methodologies to handle complexity and evolving technologies.File in write mode...Hi! I am a Penguin. I am 1 yr old.
+ File in append mode...Hi! I am a Penguin. I am 1 yr old.
